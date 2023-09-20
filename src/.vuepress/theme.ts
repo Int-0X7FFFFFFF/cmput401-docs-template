@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app", //TODO
+  hostname: "https://int-0x7fffffff.github.io/cmput401-docs-template/", //TODO
 
   iconAssets: "fontawesome-with-brands",
 
