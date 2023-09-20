@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/sitemap.xml
+Sitemap: https://int-0x7fffffff.github.io/cmput401-docs-template/sitemap.xml
