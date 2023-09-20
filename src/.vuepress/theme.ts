@@ -9,7 +9,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope", //TODO
+  repo: "Int-0X7FFFFFFF/cmput401-docs-template", //TODO
 
   docsDir: "src",
 
